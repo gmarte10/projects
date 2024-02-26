@@ -1,2 +1,2 @@
 # projects
-This is a repository with several schoool and personal projects.
+This is a repository with several school and personal projects.
