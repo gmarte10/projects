@@ -1,6 +1,6 @@
 # App Time Tracker
 
-This is a small person project I made used to track the amount of time spent on an app on
+This is a small person project I made used to track the amount of time spent on apps on
 a linux machine.
 
 ## Installation
