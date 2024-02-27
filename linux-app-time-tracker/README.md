@@ -9,7 +9,7 @@ Download and extract the project from github
 
 ## Usage
 
-Switch to [Xorg] (https://helpdesk.psionline.com/hc/en-gb/articles/13470827149332-How-to-perform-the-switch-from-the-Wayland-display-server-to-Xorg-X11-on-Linux-Ubuntu-22-04-LTS).
+Switch to [Xorg](https://helpdesk.psionline.com/hc/en-gb/articles/13470827149332-How-to-perform-the-switch-from-the-Wayland-display-server-to-Xorg-X11-on-Linux-Ubuntu-22-04-LTS).
 
 Make the windows_visited.sh executable
 
