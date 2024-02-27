@@ -20,7 +20,7 @@ chmod u+x windows_visited.sh
 Run the bash file to start tracking app time.
 Every time the bash file is executed, the previous session of tracked
 apps data is erased. Save the log file under a different name to
-prevent this from happening.
+store the data.
 
 ```bash
 ./windows_visited.sh
