@@ -5,7 +5,7 @@ This is a repository with a school and personal project.
 ### linux-app-time-tracker
 This project monitors the amount of time spent on user specified
 apps on a linux machine.
-#### Improvments to be made:
+#### Improvements to be made:
 * ask the user what apps they want to track when the python script
   is executed.
 * add more testing
