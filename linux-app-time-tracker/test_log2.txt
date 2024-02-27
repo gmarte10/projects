@@ -1,0 +1,6 @@
+program_name	total_time
+YouTube — Mozilla Firefox	12
+Google News - Chromium	1509
+weather - Google Search - Opera	63
+New Tab - Chromium	21
+Subscriptions - YouTube — Mozilla Firefox	2145

@@ -1,0 +1,14 @@
+program_name	total_time
+YouTube — Mozilla Firefox	12
+Subscriptions - YouTube — Mozilla Firefox	2145
+Google — Mozilla Firefox	3
+nba - Google Search — Mozilla Firefox	12
+news - Google Search - Chromium	6
+Google News - Chromium	1509
+New Tab - Chromium	3
+YouTube - Chromium	3201
+New Tab - Chromium	21
+Twitch - Chromium	784
+Google - Opera	3
+weather - Google Search - Opera	63
+Speed Dial - Opera	9
