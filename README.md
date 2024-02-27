@@ -16,6 +16,6 @@ apps on a linux machine.
 This project creates a simulated uno game based on user specified
 values like number of players, number of types of cards, etc.
 #### Improvements to be made:
-* allow the user to a play
+* allow the user to play
 * create better tests
 * display the game moves and results in a better way visually
